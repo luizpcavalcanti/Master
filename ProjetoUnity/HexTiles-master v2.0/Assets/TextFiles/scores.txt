@@ -1,0 +1,1 @@
+Pedro;12500 Ana;14000 Maria;11200 Carlos;10000
